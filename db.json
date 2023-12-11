@@ -1,6 +1,4 @@
 {
-  "users": [
-    {
       "lastName": "Smith",
       "firstName": "John",
       "dob": "1985-05-15",
@@ -39,6 +37,4 @@
       "email": "michael.brown@example.com",
       "userNotes": "Proin euismod ipsum eu est commodo, vel cursus lacus feugiat. Integer at neque eu elit dapibus ultricies."
     }
-  ]
-}
-
+ 
